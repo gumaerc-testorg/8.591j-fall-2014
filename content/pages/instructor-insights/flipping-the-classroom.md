@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b93901ce-b269-1028-d932-4ac654b23cf0
 title: Flipping the Classroom
 uid: 09f5e89e-d232-9a2c-359d-4f4727253abe
