@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b93901ce-b269-1028-d932-4ac654b23cf0
 title: Clickers or Flashcards?
 uid: ef058c98-4405-d52c-2431-363be79e5018

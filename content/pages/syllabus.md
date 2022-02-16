@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3c325069-5a18-60f4-2dca-6e84fb74034a
 ---
@@ -17,7 +19,7 @@ This course provides an introduction to cellular and population-level systems bi
 Prerequisites
 -------------
 
-Given the wide range of backgrounds among students in this class we will try to avoid unnecessary jargon and mathematics. However, it will be very helpful if you are comfortable with the material in [_Introductory Biology 7.012_](/courses/7-012-introduction-to-biology-fall-2004), [_Differential Equations 18.03_](/courses/18-03-differential-equations-spring-2010), and [_Probability 18.05_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014). In addition, each weekly problem set will have a computational problem, so prior experience with a computational package such as MATLAB®, Mathematica®, or Python is expected. The "officially supported" package will be Python (sample code, etc), but problems can be done in any language.
+Given the wide range of backgrounds among students in this class we will try to avoid unnecessary jargon and mathematics. However, it will be very helpful if you are comfortable with the material in [_Introductory Biology 7.012_](/courses/7-012-introduction-to-biology-fall-2004), [_Differential Equations 18.03_](/courses/18-03-differential-equations-spring-2010), and [_Probability 18.05_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014). In addition, each weekly problem set will have a computational problem, so prior experience with a computational package such as MATLAB{{< sup "®" >}}, Mathematica{{< sup "®" >}}, or Python is expected. The "officially supported" package will be Python (sample code, etc), but problems can be done in any language.
 
 Textbooks
 ---------

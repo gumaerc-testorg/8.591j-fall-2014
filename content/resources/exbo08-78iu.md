@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-591j-systems-biology-fall-2014/e60310e66ffa54d9d6697c7306f6ac6f_EXBO08-78IU.srt
+file: /media/courses/8-591j-systems-biology-fall-2014/e60310e66ffa54d9d6697c7306f6ac6f_EXBO08-78IU.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: e60310e6-6ffa-54d9-d669-7c7306f6ac6f

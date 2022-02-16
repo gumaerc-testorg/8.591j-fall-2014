@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b93901ce-b269-1028-d932-4ac654b23cf0
 title: Perceived Barriers to Active Learning
 uid: 15cd99a0-9dbc-91ef-5278-2c8a1f0e750c

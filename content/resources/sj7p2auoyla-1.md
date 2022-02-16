@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-591j-systems-biology-fall-2014/6ef636defd1616cd6483f32999941c39_sJ7p2AuOYlA.pdf
+file: /media/courses/8-591j-systems-biology-fall-2014/6ef636defd1616cd6483f32999941c39_sJ7p2AuOYlA.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 6ef636de-fd16-16cd-6483-f32999941c39

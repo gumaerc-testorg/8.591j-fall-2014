@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Pre-class Reading Questions '
 uid: 13a75973-09d7-d8c2-339a-f03a176a0d72
 ---

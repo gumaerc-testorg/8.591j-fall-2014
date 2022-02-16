@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: b93901ce-b269-1028-d932-4ac654b23cf0
 ---
@@ -59,20 +61,6 @@ GIR Science Core, Biology
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with sliding chalkboards at the front, and around 40 chairs arranged in arrows at long tables.]({{< resource_file 5b21fc4f-3d7e-ceef-51aa-cc2b21e07d43 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This classroom has a 40 person capacity. The sliding chalkboards were used along with the LCD video projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
