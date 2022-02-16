@@ -1,0 +1,17 @@
+---
+content_type: resource
+description: ''
+file: /media/courses/8-591j-systems-biology-fall-2014/d477d92702948775268897ed7e8d9c4e_8-591J_stat-students.png
+file_type: image/png
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+resourcetype: Image
+title: 8-591J_stat-students.png
+uid: d477d927-0294-8775-2688-97ed7e8d9c4e
+---
