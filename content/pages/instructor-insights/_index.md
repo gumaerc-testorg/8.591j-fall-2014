@@ -1,8 +1,6 @@
 ---
 content_type: page
-layout: instructor_insights
-learning_resource_types: []
-ocw_type: ThisCourseAtMITSection
+draft: false
 title: Instructor Insights
 uid: b93901ce-b269-1028-d932-4ac654b23cf0
 ---
@@ -20,19 +18,19 @@ This course provides an introduction to cellular and population-level systems bi
 - Explore how interactions between genes influence the decision-making of cells.
 - Examine how interactions between individuals shape how the population behaves in response to environmental pressures.
 
-{{\< anchor "insights" >}}{{\< /anchor >}}
+{{< anchor "insights" >}}{{< /anchor >}}
 
 ## Instructor Insights
 
-!\[Professor Jeff Gore\]({{\< resource\_file 8c8f3d8e-da91-817b-219e-e6671b2456a6 >}})
+![Professor Jeff Gore]({{< resource_file 8c8f3d8e-da91-817b-219e-e6671b2456a6 >}})
 
 Jeff Gore, Latham Family Career Development Assistant Professor of Physics (Image by MIT OpenCourseWare).
 
-_In the following pages, Professor Jeff Gore describes various aspects of how he teaches \_8.591J Systems Biology_.\_
+_In the following pages, Professor Jeff Gore describes various aspects of how he teaches _8.591J Systems Biology_._
 
-- \[Flipping the Classroom\]({{\< baseurl >}}/pages/instructor-insights/flipping-the-classroom)
-- \[Clickers or Flashcards?\]({{\< baseurl >}}/pages/instructor-insights/clickers-or-flashcards)
-- \[Perceived Barriers to Active Learning\]({{\< baseurl >}}/pages/instructor-insights/perceived-barriers-to-active-learning)
+- {{< resource_link 09f5e89e-d232-9a2c-359d-4f4727253abe "Flipping the Classroom" >}}
+- {{< resource_link ef058c98-4405-d52c-2431-363be79e5018 "Clickers or Flashcards?" >}}
+- {{< resource_link 15cd99a0-9dbc-91ef-5278-2c8a1f0e750c "Perceived Barriers to Active Learning" >}}
 
 _Learn more! In the video at the following Residential Digital Innovations page, Professor Gore explains various techniques he uses to gauge students' understanding of material._
 
@@ -57,7 +55,7 @@ GIR Science Core, Biology
 
 Every fall semester
 
-{{\< anchor "assessment" >}}{{\< /anchor >}}
+{{< anchor "assessment" >}}{{< /anchor >}}
 
 ## Assessment
 
@@ -71,7 +69,7 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-!\[26 students took this course when it was offered in Fall 2014.\]({{\< resource\_file d477d927-0294-8775-2688-97ed7e8d9c4e >}})
+![26 students took this course when it was offered in Fall 2014.]({{< resource_file d477d927-0294-8775-2688-97ed7e8d9c4e >}})
 
 ### Enrollment
 
@@ -85,7 +83,7 @@ Student enrollment was 26 in Fall 2014, and has ranged from 23-35 students in pa
 
 1/3 physics, 1/3 biology, 1/3 biological engineering and chemistry
 
-{{\< anchor "studenttime" >}}{{\< /anchor >}}
+{{< anchor "studenttime" >}}{{< /anchor >}}
 
 ## How Student Time Was Spent
 
@@ -100,5 +98,3 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 - Students were required to submit answers to the pre-class reading questions online, prior to each lecture.
 - Students completed weekly problem sets for the course.
-
-test change
