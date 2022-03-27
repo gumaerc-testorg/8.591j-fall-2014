@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Microbial Evolution Experiments and Optimal Gene Circuit Design
 uid: 86d26209-1449-f6a4-69c9-a0917f8fae8d
 video_files:

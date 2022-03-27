@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a54254f5-d11d-54a1-030b-eb1b17c6c447
 resourcetype: Document
 title: Systems Biology Final Exam, 2012
 uid: 930890b9-fc80-40fd-3ee2-72c4eaa6438c

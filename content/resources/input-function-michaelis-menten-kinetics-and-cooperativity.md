@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Input Function, Michaelis-Menten kinetics, and Cooperativity
 uid: c7a5a2c2-3a37-8515-1762-cdded4d47a17
 video_files:

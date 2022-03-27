@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d7114091-3615-7908-241b-6e081921581f
 resourcetype: Document
 title: 8.591J Systems Biology, Problem Set 10
 uid: 36e0074c-7318-64f4-7e5a-4050db91e22d
