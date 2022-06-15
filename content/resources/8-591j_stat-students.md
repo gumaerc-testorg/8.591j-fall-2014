@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-591j-systems-biology-fall-2014/d477d92702948775268897ed7e8d9c4e_8-591J_stat-students.png
+file: /courses/8-591j-systems-biology-fall-2014/d477d92702948775268897ed7e8d9c4e_8-591J_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''

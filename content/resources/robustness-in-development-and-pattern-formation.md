@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture by Prof. Jeff Gore is about the mechanisms of biological pattern formation. One mechanism discussed is diffusion.
 
 **Instructor:** Prof. Jeff Gore
+
+
+

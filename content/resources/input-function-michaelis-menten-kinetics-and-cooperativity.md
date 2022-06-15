@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses the kinetics of gene expression. The lecture begins with simple input-output relationships and chemical/enzyme kinetics. He then moves on to response time for stable proteins. He finishes with ultrasensitivity: cooperative binding or multimer molecular titration.
 
 **Instructor:** Prof. Jeff Gore
+
+
+

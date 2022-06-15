@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses the toggle switch, or two genes that repress each other. He then moves on to dimensionless equations and stability analysis.
 
 **Instructor:** Prof. Jeff Gore
+
+
+

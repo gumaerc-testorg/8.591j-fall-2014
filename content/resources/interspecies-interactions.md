@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture by Prof. Jeff Gore covers models and experiments of predator-prey interactions and oscillations. He begins with the Lokta-Volterra model, which has been called both "bad" (mathematically speaking) and "profoundly important."
 
 **Instructor:** Prof. Jeff Gore
+
+
+

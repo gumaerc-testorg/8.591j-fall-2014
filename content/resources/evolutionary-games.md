@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore begins with a review problem on rugged landscapes. He then moved on to the main subject: evolutionary game theory. This includes the Nash equilibrium, the prisoner's dilemma, and the hawk-dove game.
 
 **Instructor:** Prof. Jeff Gore
+
+
+

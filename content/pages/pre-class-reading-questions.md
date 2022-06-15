@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides pre-class reading questions meant to facilitate
+  interactions during class between students.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Pre-class Reading Questions '

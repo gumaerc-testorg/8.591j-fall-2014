@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses the feed-forward loop (FFL) network motif. He covers coherent type 1 (C1) and the incoherent type 1 (I1) FFL motifs. This discussion of network motifs is extended to larger structures.
 
 **Instructor:** Prof. Jeff Gore
+
+
+

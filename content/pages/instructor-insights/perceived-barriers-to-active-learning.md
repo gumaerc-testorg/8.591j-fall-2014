@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Jeff Gore discusses the perceived barriers preventing
+  educators form implementing active learning in the classroom.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

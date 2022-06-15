@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-591j-systems-biology-fall-2014/871c636e96858b1b0d251868d79e116e_hfq1T9windg.pdf
+file: /courses/8-591j-systems-biology-fall-2014/871c636e96858b1b0d251868d79e116e_hfq1T9windg.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

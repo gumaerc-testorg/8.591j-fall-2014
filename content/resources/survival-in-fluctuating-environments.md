@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses the regulation of genes in response to changing environments. He discusses a few theories for phenotypic heterogeneity and examples from biology.
 
 **Instructor:** Prof. Jeff Gore
+
+
+

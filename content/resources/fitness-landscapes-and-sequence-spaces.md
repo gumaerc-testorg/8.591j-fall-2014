@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore continues his discussion of clonal interference and the equivalence principle from the last lecture. He discussed clonal interference and the rate of evolution. And finally he thinks about evolution from the perspective of rugged fitness landscapes.
 
 **Instructor:** Prof. Jeff Gore
+
+
+

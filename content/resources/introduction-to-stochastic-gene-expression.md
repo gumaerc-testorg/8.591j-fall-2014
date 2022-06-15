@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture by Prof. Jeff Gore centers on discussion of one of his favorite scientific papers: "[Probing Gene Expression in Live Cells, One Protein Molecule at a Time](http://dx.doi.org/10.1126/science.1119623)," by Yu et al.
 
 **Instructor:** Prof. Jeff Gore
+
+
+
