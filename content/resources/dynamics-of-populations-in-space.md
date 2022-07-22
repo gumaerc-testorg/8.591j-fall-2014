@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Dynamics of Populations in Space
 uid: f0dbae7f-0eb1-d94e-bf14-d50bd5a75fc7
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore finishes the discussion of the Lotka-Volterra competition model. He then moves on to the topic of non-transitive interactions, what he calls rock-paper-scissor interactions.
 
 **Instructor:** Prof. Jeff Gore
+

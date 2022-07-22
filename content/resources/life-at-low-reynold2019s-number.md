@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Life at Low Reynolds Number
 uid: df45d2d2-a58d-c50b-8ea2-da80c06f6bc0
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses bacteria. He asks, and answers, questions like how do bacteria find food? How do they know which direction to swim, and how do they swim? All of these questions relate to the low Reynold's number regime in which bacteria live.
 
 **Instructor:** Prof. Jeff Gore
+

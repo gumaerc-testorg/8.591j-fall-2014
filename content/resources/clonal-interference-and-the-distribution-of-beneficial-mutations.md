@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Clonal Interference and the Distribution of Beneficial Mutations
 uid: 6bb72263-531a-4062-4e88-118c575bbf24
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore covers the principles of the scientific article "An Equivalence Principle for the Incorporation of Favorable Mutations in Asexual Populations."
 
 **Instructor:** Prof. Jeff Gore
+

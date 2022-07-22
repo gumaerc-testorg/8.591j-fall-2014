@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Jeff Gore discusses his decision to use flashcards instead
+  of clickers in the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

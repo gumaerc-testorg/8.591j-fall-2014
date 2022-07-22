@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Ecosystem Stability, Critical Transitions, and Biodiversity
 uid: 027f29c1-695d-4859-aa27-188a0e22313d
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses the stability, resilience, and diversity of populations at a systems level. He begins by considering a single population, and then moves on to a simple model of interactions between species.
 
 **Instructor:** Prof. Jeff Gore
+
