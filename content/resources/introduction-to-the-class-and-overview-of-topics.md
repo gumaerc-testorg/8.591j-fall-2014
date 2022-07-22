@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore introduces the topics of the course, which broadly include gene networks and cellular decision-making, evolutionary systems biology, and ecological systems biology.
 
 **Instructor:** Prof. Jeff Gore
-
-
 

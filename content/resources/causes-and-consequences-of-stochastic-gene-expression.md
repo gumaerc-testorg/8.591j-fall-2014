@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, the class analyzes a simple model of gene expression, first to understand the deterministic behavior of the model, and then to look at the stochastic behavior of the model.
 
 **Instructor:** Prof. Jeff Gore
-
-
 

@@ -5,6 +5,7 @@ file: /courses/8-591j-systems-biology-fall-2014/55e8d098d48008b738aff4fa9bbaad94
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8.591J Systems Biology, Problem Set 6
 uid: 55e8d098-d480-08b7-38af-f4fa9bbaad94
 ---
 This resource contains information related to problem set 6.
-

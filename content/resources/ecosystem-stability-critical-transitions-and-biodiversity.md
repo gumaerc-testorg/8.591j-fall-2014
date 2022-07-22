@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses the stability, resilience, and diversity of populations at a systems level. He begins by considering a single population, and then moves on to a simple model of interactions between species.
 
 **Instructor:** Prof. Jeff Gore
-
-
 

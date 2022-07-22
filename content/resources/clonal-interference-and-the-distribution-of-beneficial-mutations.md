@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore covers the principles of the scientific article "An Equivalence Principle for the Incorporation of Favorable Mutations in Asexual Populations."
 
 **Instructor:** Prof. Jeff Gore
-
-
 

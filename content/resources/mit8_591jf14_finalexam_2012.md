@@ -5,6 +5,7 @@ file: /courses/8-591j-systems-biology-fall-2014/930890b9fc8040fd3ee272c4eaa6438c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Systems Biology Final Exam, 2012
 uid: 930890b9-fc80-40fd-3ee2-72c4eaa6438c
 ---
 This resource contains the information regarding Final Exam, 2012 .
-

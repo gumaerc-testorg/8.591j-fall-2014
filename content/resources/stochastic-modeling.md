@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses modeling stochastic systems. The discussion of the master equation continues from last lecture. Then he talks about the Gillespie algorithm, an exact way to simulate stochastic systems. He then moves on to the Fokker-Planck equation.
 
 **Instructor:** Prof. Jeff Gore
-
-
 
