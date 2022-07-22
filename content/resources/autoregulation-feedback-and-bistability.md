@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Autoregulation, Feedback and Bistability
 uid: 6b503d8f-9074-f196-7c54-3a385a4ad57b
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore continues his discussion of gene expression, this time with a focus on autoregulation (when a gene regulates its own expression). He begins by discussing the network motif, then moves on to both negative and positive autoregulation.
 
 **Instructor:** Prof. Jeff Gore
+

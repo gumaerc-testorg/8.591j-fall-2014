@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Microbial Evolution Experiments and Optimal Gene Circuit Design
 uid: 86d26209-1449-f6a4-69c9-a0917f8fae8d
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore discusses the Nature article "Optimality and Evolutionary Tuning of the Expression Level of a Protein," with emphasis on the connection between theory, prediction, and experiment.
 
 **Instructor:** Prof. Jeff Gore
+

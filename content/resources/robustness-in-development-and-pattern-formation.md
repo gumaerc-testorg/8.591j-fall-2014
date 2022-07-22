@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Robustness in Development and Pattern Formation
 uid: d51735be-128a-4df4-249c-e22fe4032ff6
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** This lecture by Prof. Jeff Gore is about the mechanisms of biological pattern formation. One mechanism discussed is diffusion.
 
 **Instructor:** Prof. Jeff Gore
+

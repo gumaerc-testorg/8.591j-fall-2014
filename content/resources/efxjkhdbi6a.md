@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-591j-systems-biology-fall-2014/cbc8bd7da157c8e954935815e8756509_EFXjKHdbi6A.srt
+file: /courses/8-591j-systems-biology-fall-2014/cbc8bd7da157c8e954935815e8756509_EFXjKHdbi6A.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Causes and Consequences of Stochastic Gene Expression
 uid: fccab379-f1fc-5a5d-e2fe-49b20461eca2
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the class analyzes a simple model of gene expression, first to understand the deterministic behavior of the model, and then to look at the stochastic behavior of the model.
 
 **Instructor:** Prof. Jeff Gore
+

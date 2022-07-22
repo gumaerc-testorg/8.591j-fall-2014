@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Evolution in Finite Populations
 uid: 0a5eef94-6f40-06ee-8fb8-4f80badfd67e
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** This lecture by Prof. Jeff Gore is on the topic of evolution in finite populations. Several aspects are covered, including the Moran process, neutral and non-neutral evolution, and stochastic extinction of beneficial mutants.
 
 **Instructor:** Prof. Jeff Gore
+

@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Interspecies Interactions
 uid: df70acfb-667b-4bb1-e97f-2c8a62b06432
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** This lecture by Prof. Jeff Gore covers models and experiments of predator-prey interactions and oscillations. He begins with the Lokta-Volterra model, which has been called both "bad" (mathematically speaking) and "profoundly important."
 
 **Instructor:** Prof. Jeff Gore
+

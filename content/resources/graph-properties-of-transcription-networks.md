@@ -1,9 +1,12 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -11,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Graph Properties of Transcription Networks
 uid: 43d29971-4405-eaa8-55ea-4050a90f643f
 video_files:
@@ -25,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Jeff Gore finishes the discussion of oscillators. This includes alternative designs for oscillators, including positive and negative feedback. He then discusses one of the most cited scientific articles: Emergence of scaling in random networks, by Barabási & Albert. The lecture ends with the topic network motifs.
 
 **Instructor:** Prof. Jeff Gore
+

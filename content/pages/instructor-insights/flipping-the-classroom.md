@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Jeff Gore shares his insights about flipping the classroom
+  in 8.591J Systems Biology.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
