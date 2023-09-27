@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2014",
   "level": [
-    "Graduate"
+    "Graduate",
+    "Undergraduate"
   ],
   "topics": [
     [
@@ -51,8 +52,10 @@
   "learning_resource_types": [
     "Problem Sets",
     "Exams",
-    "Lecture Videos"
+    "Lecture Videos",
+    "Instructor Insights"
   ],
-  "site_uid": "6cd3963f-cea1-40c4-98bc-aca046132ffc",
+  "site_uid": "3317c325-e112-45ca-b7e8-2f42bc5c74a2",
+  "site_short_id": "8.591j-fall-2014",
   "title": "Course Metadata"
 }
