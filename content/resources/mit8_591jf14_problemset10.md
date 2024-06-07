@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to problem set 10.
 file: /courses/8-591j-systems-biology-fall-2014/36e0074c731864f47e5a4050db91e22d_MIT8_591JF14_ProblemSet10.pdf
+file_size: 613228
 file_type: application/pdf
 learning_resource_types:
 - Assignments
