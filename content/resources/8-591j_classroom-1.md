@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-591j-systems-biology-fall-2014/5b21fc4f3d7eceef51aacc2b21e07d43_8-591J_classroom-1.jpg
+file_size: 54543
 file_type: image/jpeg
 image_metadata:
   caption: ''
