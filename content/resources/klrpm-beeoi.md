@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-591j-systems-biology-fall-2014/c72bbdd38f0614a711696310f23eeb6e_KLrPm-BEEOI.srt
+file_size: 108971
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
