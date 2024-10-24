@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-591j-systems-biology-fall-2014/8c8f3d8eda91817b219ee6671b2456a6_gore_photo.JPG
+file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2014/8c8f3d8eda91817b219ee6671b2456a6_gore_photo.JPG
 file_size: 55960
 file_type: image/jpeg
 image_metadata:
