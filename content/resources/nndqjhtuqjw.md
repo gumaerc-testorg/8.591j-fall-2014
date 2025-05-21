@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2014/cf3fa0866c1aebc54028be1d44e943ef_NnDqJhtUqjw.srt
+file: /courses/8-591j-systems-biology-fall-2014/cf3fa0866c1aebc54028be1d44e943ef_NnDqJhtUqjw.srt
 file_size: 115384
 file_type: application/x-subrip
 learning_resource_types: []
