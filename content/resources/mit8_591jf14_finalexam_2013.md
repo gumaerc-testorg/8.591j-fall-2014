@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Final Exam, 2013.
-file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2014/2ece04f5d01740bca9143c593fdab9ad_MIT8_591JF14_FinalExam_2013.pdf
+file: /courses/8-591j-systems-biology-fall-2014/2ece04f5d01740bca9143c593fdab9ad_MIT8_591JF14_FinalExam_2013.pdf
 file_size: 893197
 file_type: application/pdf
 learning_resource_types:
