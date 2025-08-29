@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to problem set 1.
-file: /courses/8-591j-systems-biology-fall-2014/97523526b6dea7f2780078e5ed882c89_MIT8_591JF14_ProblemSet1.pdf
+file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2014/97523526b6dea7f2780078e5ed882c89_MIT8_591JF14_ProblemSet1.pdf
 file_size: 434500
 file_type: application/pdf
 learning_resource_types:
