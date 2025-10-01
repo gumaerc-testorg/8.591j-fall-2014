@@ -24,15 +24,15 @@ Given the wide range of backgrounds among students in this class we will try to 
 
 ### Required Textbook
 
-Alon, Uri. _An Introduction to Systems Biology: Design Principles of Biological Circuits_. Chapman & Hall / CRC, 2006. ISBN: 9781584886426. \[Preview with [Google Books](http://books.google.com/books?id=tcxCkIxzCO4C&pg=PAfrontcover)\]
+Alon, Uri. _An Introduction to Systems Biology: Design Principles of Biological Circuits_. Chapman & Hall / CRC, 2006. ISBN: 9781584886426. \[Preview with {{% resource_link "cbbab3f0-77da-4c5c-bd58-fbaadf077da8" "Google Books" %}}\]
 
-Nowak, M. A. _Evolutionary Dynamics: Exploring the Equations of Life_. Belknap Press, 2006. ISBN: 9780674023383. \[Preview with [Google Books](http://books.google.com/books?id=YXrIRDuAbE0C&pg=PAfrontcover#v=onepage)\]
+Nowak, M. A. _Evolutionary Dynamics: Exploring the Equations of Life_. Belknap Press, 2006. ISBN: 9780674023383. \[Preview with {{% resource_link "801b9a9b-7778-4e7e-bb47-87dad94fea70" "Google Books" %}}\]
 
 ### Supplementary Reading
 
 Alberts, Bruce. _Essential Cell Biology_. Garland Science, 2009. ISBN: 9780815341291.
 
-Strogatz, Steven H. _Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering_. Westview Press, 2014. ISBN: 9780813349107. \[Preview with [Google Books](http://books.google.com/books?id=jeFVDgAAQBAJ&pg=PAfrontcover)\]
+Strogatz, Steven H. _Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering_. Westview Press, 2014. ISBN: 9780813349107. \[Preview with {{% resource_link "3ef6bfd4-d5d2-4129-acae-83f395881496" "Google Books" %}}\]
 
 ## Pre-class Reading Questions
 
