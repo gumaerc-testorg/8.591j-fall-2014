@@ -13,15 +13,15 @@ To facilitate interactions during class between students, there are short requir
 
 ## Required Texts
 
-\[UA\] = Alon, U. *An Introduction to Systems Biology: Design Principles of Biological Circuits*. Chapman and Hall / CRC, 2006. ISBN: 9781584886426. \[Preview with [Google Books](http://books.google.com/books?id=tcxCkIxzCO4C&pg=PAfrontcover)\]
+\[UA\] = Alon, U. *An Introduction to Systems Biology: Design Principles of Biological Circuits*. Chapman and Hall / CRC, 2006. ISBN: 9781584886426. \[Preview with {{% resource_link "cbbab3f0-77da-4c5c-bd58-fbaadf077da8" "Google Books" %}}\]
 
-\[MN\] = Nowak, M. A. *Evolutionary Dynamics: Exploring the Equations of Life*. Belknap Press, 2006. ISBN: 9780674023383. \[Preview with [Google Books](http://books.google.com/books?id=YXrIRDuAbE0C&pg=PAfrontcover#v=onepage)\]
+\[MN\] = Nowak, M. A. *Evolutionary Dynamics: Exploring the Equations of Life*. Belknap Press, 2006. ISBN: 9780674023383. \[Preview with {{% resource_link "801b9a9b-7778-4e7e-bb47-87dad94fea70" "Google Books" %}}\]
 
 ## Supplementary Reading
 
 \[BA\] = Alberts, B., et al. *Essential Cell Biology*. 3rd ed. Garland Science, 2009. ISBN: 9780815341291.
 
-\[SS\] = Strogatz, Steven H. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*. Westview Press, 2014. ISBN: 9780813349107. \[Preview with [Google Books](http://books.google.com/books?id=jeFVDgAAQBAJ&pg=PAfrontcover)\]
+\[SS\] = Strogatz, Steven H. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*. Westview Press, 2014. ISBN: 9780813349107. \[Preview with {{% resource_link "3ef6bfd4-d5d2-4129-acae-83f395881496" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -73,7 +73,7 @@ Autoregulation, feedback and bistability
 
 \[SS\] Chapters 1 and 2.
 
-Becskei, A., and L. Serrano. "[Engineering Stability in Gene Networks by Autoregulation](http://dx.doi.org/10.1038/35014651)." *Nature* 405 (2000): 590–3.
+Becskei, A., and L. Serrano. "{{% resource_link "217237aa-0401-4c87-9ea2-424ab26dac9d" "Engineering Stability in Gene Networks by Autoregulation" %}}." *Nature* 405 (2000): 590–3.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -83,15 +83,15 @@ Introduction to synthetic biology and stability analysis in the toggle switch
 
 *Required*
 
-Hasty, J., D. McMillen, et al. "[Engineered Gene Circuits](http://dx.doi.org/10.1038/nature01257)." *Nature* 420 (2002): 224–30.
+Hasty, J., D. McMillen, et al. "{{% resource_link "2bd054fb-ce10-431e-ac61-648ba182fc32" "Engineered Gene Circuits" %}}." *Nature* 420 (2002): 224–30.
 
-Supplementary notes on [Stability Analysis (PDF)](https://web.archive.org/web/20150908012053/http://web.mit.edu/biophysics/sbio/PDFs/L8_notes.pdf) written by Alexander van Oudenaarden.
+Supplementary notes on {{% resource_link "5d5e787f-570f-466c-a29a-ce08d2995915" "Stability Analysis (PDF)" %}} written by Alexander van Oudenaarden.
 
 *Optional*
 
 \[SS\] Chapters 5 and 6.
 
-Gardner, T. S., C. R. Cantor, et al. "[Construction of a Genetic Toggle Switch in *Escherichia Coli*](http://dx.doi.org/10.1038/35002131)." *Nature* 403 (2000): 339–42.
+Gardner, T. S., C. R. Cantor, et al. "{{% resource_link "fc4cf606-b110-49f0-a3df-9ea9a31a7c04" "Construction of a Genetic Toggle Switch in *Escherichia Coli*" %}}." *Nature* 403 (2000): 339–42.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -101,13 +101,13 @@ Oscillatory genetic networks
 
 *Required*
 
-Elowitz, M. B., and S. Leibler. "[A Synthetic Oscillatory Network of Transcriptional Regulators](http://dx.doi.org/10.1038/35002125)." *Nature* 403 (2000): 335–38.
+Elowitz, M. B., and S. Leibler. "{{% resource_link "3e46935a-2d57-4859-8dd0-7da66a0f0fd9" "A Synthetic Oscillatory Network of Transcriptional Regulators" %}}." *Nature* 403 (2000): 335–38.
 
 *Optional*
 
 \[SS\] Chapter 7.
 
-Stricker, J., S. Cookson, et al. "[A Fast, Robust and Tunable Synthetic Gene Oscillator](http://dx.doi.org/10.1038/nature07389)." *Nature* 456 (2008): 516–19.
+Stricker, J., S. Cookson, et al. "{{% resource_link "de3c790f-9a70-472f-977b-6f06231b2c3d" "A Fast, Robust and Tunable Synthetic Gene Oscillator" %}}." *Nature* 456 (2008): 516–19.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -121,7 +121,7 @@ Graph properties of transcription networks
 
 \[UA\] Chapters 4.1–4.3
 
-Barabasi, A. L., and R. Alpert. "[Emergence of Scaling in Random Networks](http://dx.doi.org/10.1126/science.286.5439.509)." *Science* 286, no. 5439 (1999): 509–12.
+Barabasi, A. L., and R. Alpert. "{{% resource_link "fe7bf134-1489-4eb1-b985-f0b24df60b1a" "Emergence of Scaling in Random Networks" %}}." *Science* 286, no. 5439 (1999): 509–12.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -143,7 +143,7 @@ Introduction to stochastic gene expression
 
 \[UA\] Appendix D.
 
-Yu, J., J. Xiao, et al. "[Probing Gene Expression in Live Cells, One Protein Molecule at a Time](http://dx.doi.org/10.1126/science.1119623)." *Science* 311, no. 5767 (2006): 1600–3.
+Yu, J., J. Xiao, et al. "{{% resource_link "1bd45473-59cb-43a2-abd6-f8b5b2cb6beb" "Probing Gene Expression in Live Cells, One Protein Molecule at a Time" %}}." *Science* 311, no. 5767 (2006): 1600–3.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -153,11 +153,11 @@ Causes and consequences of stochastic gene expression
 
 *Required*
 
-Raj, A., and A. van Oudenaarden. "[Nature, Nurture, or Chance: Stochastic Gene Expression and Its Consequences](http://dx.doi.org/10.1016/j.cell.2008.09.050)." *Cell* 135, no. 2 (2008): 216–26.
+Raj, A., and A. van Oudenaarden. "{{% resource_link "27318dea-cb32-4b94-907b-2b80bd59287b" "Nature, Nurture, or Chance: Stochastic Gene Expression and Its Consequences" %}}." *Cell* 135, no. 2 (2008): 216–26.
 
 *Optional*
 
-Elowitz, M. B., A. J. Levine, et al. "[Stochastic Gene Expression in a Single Cell](http://dx.doi.org/10.1126/science.1070919)." *Science* 297, no. 5584 (2002): 1183–86.
+Elowitz, M. B., A. J. Levine, et al. "{{% resource_link "b213dc41-86d1-441a-8c85-b4c8d93cf84f" "Stochastic Gene Expression in a Single Cell" %}}." *Science* 297, no. 5584 (2002): 1183–86.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -167,11 +167,11 @@ Stochastic modeling—The master equation, Fokker-Planck Equation, and the Gille
 
 *Required*
 
-Supplementary notes on the [Master Equation and Fokker Plank Equation (PDF)](https://web.archive.org/web/20110527155407/http://web.mit.edu/biophysics/sbio/PDFs/L13_notes.pdf), by Alexander van Oudenaarden.
+Supplementary notes on the {{% resource_link "10fb57a8-4645-4e05-a7ed-94ca2ed6e733" "Master Equation and Fokker Plank Equation (PDF)" %}}, by Alexander van Oudenaarden.
 
 *Optional*
 
-Gillespie, D. T. "[Exact Stochastic Simulation of Coupled Chemical Reactions](http://dx.doi.org/10.1021/j100540a008)." *The Journal of Physical Chemistry* 81, no. 25 (1977): 2340–61.
+Gillespie, D. T. "{{% resource_link "99f25dc1-1e80-428f-930d-7c538198425f" "Exact Stochastic Simulation of Coupled Chemical Reactions" %}}." *The Journal of Physical Chemistry* 81, no. 25 (1977): 2340–61.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -181,11 +181,11 @@ Life at low Reynold's number
 
 *Required*
 
-Purcell, E. M. "[Life at Low Reynolds Number](http://dx.doi.org/10.1119/1.10903)." *American Journal of Physics* 45, no. 3 (1977): 3–11.
+Purcell, E. M. "{{% resource_link "e47b73fc-3aa9-4c0b-9041-47c881da44c5" "Life at Low Reynolds Number" %}}." *American Journal of Physics* 45, no. 3 (1977): 3–11.
 
 *Optional*
 
-Berg, H. C., and E. M. Purcell. "[Physics of Chemoreception](http://dx.doi.org/10.1016/S0006-3495%2877%2985544-6)." *Biophysical Journal* 20, no. 2 (1977): 193–219.
+Berg, H. C., and E. M. Purcell. "{{% resource_link "d1e3dd7c-623f-4699-9344-793e8850c377" "Physics of Chemoreception" %}}." *Biophysical Journal* 20, no. 2 (1977): 193–219.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -199,9 +199,9 @@ Robustness and bacterial chemotaxis
 
 *Optional*
 
-Barkai, N., and S. Leibler. "[Robustness in Simple Biochemical Networks](http://www.ncbi.nlm.nih.gov/pubmed/9202124)." *Nature* 387, no. 6636 (1997): 913–17.
+Barkai, N., and S. Leibler. "{{% resource_link "0581e20a-7795-427f-8047-7910d45b2f0b" "Robustness in Simple Biochemical Networks" %}}." *Nature* 387, no. 6636 (1997): 913–17.
 
-Alon, U., M. G. Surette, et al. "[Robustness in Bacterial Chemotaxis](http://dx.doi.org/10.1038/16483)." *Nature* 397 (1999): 168–71.
+Alon, U., M. G. Surette, et al. "{{% resource_link "e5ea8aea-8607-41e1-9ff9-20dacfb88e00" "Robustness in Bacterial Chemotaxis" %}}." *Nature* 397 (1999): 168–71.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -213,13 +213,13 @@ Robustness in development and pattern formation
 
 \[UA\] Chapter 8.
 
-Supplementary notes on [Fick's Law (PDF)](https://web.archive.org/web/20150322061429/http://web.mit.edu/biophysics/sbio/PDFs/L15_notes.pdf) by Alexander van Oudenaarden.
+Supplementary notes on {{% resource_link "35366ce3-3d77-4086-a39b-ccb2657877c8" "Fick's Law (PDF)" %}} by Alexander van Oudenaarden.
 
-Kondo, S., and T. Miura. "[Reaction-Diffusion Model as a Framework for Understanding Biological Pattern Formation](http://dx.doi.org/10.1126/science.1179047)." *Science* 329, no. 5999 (2010): 1616–20.
+Kondo, S., and T. Miura. "{{% resource_link "651f158f-df96-4cc5-bd43-ed89b59933eb" "Reaction-Diffusion Model as a Framework for Understanding Biological Pattern Formation" %}}." *Science* 329, no. 5999 (2010): 1616–20.
 
 *Optional*
 
-Loose, M., E. Fischer-Friedrich, et al. "[Spatial Regulators for Bacterial Cell Division Self Organize into Surface Waves in Vitro](http://dx.doi.org/10.1126/science.1154413)." *Science* 320, no. 5877 (2008): 789–92.
+Loose, M., E. Fischer-Friedrich, et al. "{{% resource_link "2309015d-841f-4a55-bfda-49f4273ef670" "Spatial Regulators for Bacterial Cell Division Self Organize into Surface Waves in Vitro" %}}." *Science* 320, no. 5877 (2008): 789–92.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -231,13 +231,13 @@ Introduction to microbial evolution experiments, and optimal gene circuit design
 
 \[MN\] Chapters 1–2.
 
-Dekel, E., and U. Alon. "[Optimality and Evolutionary Tuning in the Expression Level of a Protein](http://dx.doi.org/10.1038/nature03842)." *Nature* 436 (2005): 588–92.
+Dekel, E., and U. Alon. "{{% resource_link "7569f54b-5599-42de-825f-7fd13cc55d96" "Optimality and Evolutionary Tuning in the Expression Level of a Protein" %}}." *Nature* 436 (2005): 588–92.
 
 *Optional*
 
 \[UA\] Chapter 10.
 
-Elena, S. F., and R. E. Lenski. "[Evolution Experiments with Micro-organisms: The Dynamics and Genetic Bases of Adaptation](http://dx.doi.org/10.1038/nrg1088)." *Nature Reviews Genetics* 4 (2003): 457–69.
+Elena, S. F., and R. E. Lenski. "{{% resource_link "61bb6f64-27ed-458e-8255-3932cbad9010" "Evolution Experiments with Micro-organisms: The Dynamics and Genetic Bases of Adaptation" %}}." *Nature Reviews Genetics* 4 (2003): 457–69.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -247,7 +247,7 @@ Evolution in finite populations, genetic drift, and the theory of neutral molecu
 
 *Required*
 
-Duret, L. "[Neutral Theory: The Null Hypothesis of Molecular Evolution](http://www.nature.com/scitable/topicpage/neutral-theory-the-null-hypothesis-of-molecular-839)." *Nature Education* 1, no. 1 (2008).
+Duret, L. "{{% resource_link "c1edb02d-5abe-4e22-bc79-a1af018be40d" "Neutral Theory: The Null Hypothesis of Molecular Evolution" %}}." *Nature Education* 1, no. 1 (2008).
 
 \[MN\] Chapter 6.
 
@@ -259,15 +259,15 @@ Clonal interference and the distribution of beneficial mutations
 
 *Required*
 
-Hegreness, M., N. Shoresh, et al. "[An Equivalence Principle for the Incorporation of Favorable Mutations in Asexual Populations](http://dx.doi.org/10.1126/science.1122469)." *Science* 311, no. 5767 (2006): 1615–17.
+Hegreness, M., N. Shoresh, et al. "{{% resource_link "5bcbc918-6620-4e37-8a4a-27d02f0d19ca" "An Equivalence Principle for the Incorporation of Favorable Mutations in Asexual Populations" %}}." *Science* 311, no. 5767 (2006): 1615–17.
 
 *Optional*
 
-Orr, H. A. "[The Genetic Theory of Adaptation: A Brief History](http://dx.doi.org/10.1038/nrg1523)." *Nature Reviews Genetics* 6 (2005): 119–27.
+Orr, H. A. "{{% resource_link "7898df33-a02e-4181-a9cf-be8eb932fa5e" "The Genetic Theory of Adaptation: A Brief History" %}}." *Nature Reviews Genetics* 6 (2005): 119–27.
 
-Desai, M., D. S. Fisher, et al. "[The Speed of Evolution and Maintenance of Variation in Asexual Populations](http://dx.doi.org/10.1016/j.cub.2007.01.072)." *Current Biology* 17, no. 5 (2007): 385–94.
+Desai, M., D. S. Fisher, et al. "{{% resource_link "4741d8f9-cd16-4826-9119-7aa3fd799a96" "The Speed of Evolution and Maintenance of Variation in Asexual Populations" %}}." *Current Biology* 17, no. 5 (2007): 385–94.
 
-Weissman, D. B., M. M. Desai, et al. "[The Rate at which Asexual Populations Cross Fitness Valleys](http://dx.doi.org/10.1016/j.tpb.2009.02.006)." *Theoretical Population Biology* 75, no. 4 (2009): 286–300.
+Weissman, D. B., M. M. Desai, et al. "{{% resource_link "8c6b1eb5-7b3d-464c-a84b-32828f3ed66d" "The Rate at which Asexual Populations Cross Fitness Valleys" %}}." *Theoretical Population Biology* 75, no. 4 (2009): 286–300.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -279,7 +279,7 @@ Fitness landscapes and sequence spaces
 
 \[MN\] Chapter 3.
 
-Weinreich, D. M., N. F. Delaney, et al. "[Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins](http://dx.doi.org/10.1126/science.1123539)." *Science* 312, no. 5770 (2006): 111–4.
+Weinreich, D. M., N. F. Delaney, et al. "{{% resource_link "cb11a8c7-03eb-42a4-be1a-60d8205e7a3d" "Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins" %}}." *Science* 312, no. 5770 (2006): 111–4.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -293,7 +293,7 @@ Evolutionary games
 
 *Optional*
 
-Turner, P. E., and L. Chao. "[Prisoner's Dilemma in an RNA Virus](http://dx.doi.org/10.1038/18913)." *Nature* 398 (1999): 441–43.
+Turner, P. E., and L. Chao. "{{% resource_link "d79a8ceb-dd0a-4b86-9cb2-8c99fb51d453" "Prisoner's Dilemma in an RNA Virus" %}}." *Nature* 398 (1999): 441–43.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -303,9 +303,9 @@ Survival in fluctuating environments
 
 *Required*
 
-Mitchell, A., G. H. Romano, et al. "[Adaptive Prediction of Environmental Change by Micro-Organisms](http://dx.doi.org/10.1038/nature08112)." *Nature* 460 (2009): 220–24.
+Mitchell, A., G. H. Romano, et al. "{{% resource_link "3b39e9eb-f20c-43e8-ae90-558c6c2acc84" "Adaptive Prediction of Environmental Change by Micro-Organisms" %}}." *Nature* 460 (2009): 220–24.
 
-Kussell, E., and S Leibler. "[Phenotypic Diversity, Population Growth, and Information in Fluctuating Environments](http://dx.doi.org/10.1126/science.1114383)." *Science* 309, no. 5743 (2005): 2075–78.
+Kussell, E., and S Leibler. "{{% resource_link "997a2f96-54fa-4147-97fc-a554138dfabd" "Phenotypic Diversity, Population Growth, and Information in Fluctuating Environments" %}}." *Science* 309, no. 5743 (2005): 2075–78.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -317,11 +317,11 @@ Parasites, the evolution of virulence and sex
 
 \[MN\] Chapter 11.
 
-Morran, L., O. Schmidt, et al. "[Running with the Red Queen: Host-Parasite Coevolution Selects for Biparental Sex](http://dx.doi.org/10.1126/science.1206360)." *Science* 333, no. 6039 (2011): 216–18.
+Morran, L., O. Schmidt, et al. "{{% resource_link "30b12330-51bb-4a4f-a10f-110158642089" "Running with the Red Queen: Host-Parasite Coevolution Selects for Biparental Sex" %}}." *Science* 333, no. 6039 (2011): 216–18.
 
 *Optional*
 
-Lloyd-Smith, J. O., S. J. Schreiber, et al. "[Superspreading and the Effect of Individual Variation on Disease Emergence](http://dx.doi.org/10.1038/nature04153)." *Nature* 438 (2005): 355–59.
+Lloyd-Smith, J. O., S. J. Schreiber, et al. "{{% resource_link "eb1245a0-f1a7-4340-ae46-3415dd8196e4" "Superspreading and the Effect of Individual Variation on Disease Emergence" %}}." *Nature* 438 (2005): 355–59.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -333,11 +333,11 @@ Interspecies interactions, the Lotka-Volterra model, and predator-prey oscillati
 
 Edelstein-Keshet, L. Sections 6.2, 6.6, and 6.7 in *Mathematical Models in Biology.* Society for Industrial and Applied Mathematics, 2005. ISBN: 9780898715545.
 
-Yoshida, T., L. E. Jones, et al. "[Rapid Evolution Drives Ecological Dynamics in a Predator-prey System](http://dx.doi.org/10.1038/nature01767)." *Nature* 424 (2003): 303–06.
+Yoshida, T., L. E. Jones, et al. "{{% resource_link "098e1ee3-6eb6-4079-834d-661843694e2b" "Rapid Evolution Drives Ecological Dynamics in a Predator-prey System" %}}." *Nature* 424 (2003): 303–06.
 
 *Optional*
 
-McKane, A. J., and T. J. Newman. "[Predator-Prey Cycles from Resonant Amplification of Demographic Stochasticity](http://dx.doi.org/10.1103/PhysRevLett.94.218102)." *Physical Review Letters* 94 (2010): 218102.
+McKane, A. J., and T. J. Newman. "{{% resource_link "a3cd9464-1f30-47b5-b648-937842102c5d" "Predator-Prey Cycles from Resonant Amplification of Demographic Stochasticity" %}}." *Physical Review Letters* 94 (2010): 218102.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -347,13 +347,13 @@ Ecosystem stability, critical transitions, and the maintenance of biodiversity
 
 *Required*
 
-Scheffer, M., J. Bascompte, et al. "[Early-warning Signals for Critical Transitions](http://dx.doi.org/10.1038/nature08227)." *Nature* 461 (2009): 53–59.
+Scheffer, M., J. Bascompte, et al. "{{% resource_link "2168ac36-ee21-4fe5-b572-2dc1632f0bb3" "Early-warning Signals for Critical Transitions" %}}." *Nature* 461 (2009): 53–59.
 
 *Optional*
 
 \[SS\] Chapter 3.
 
-Dai, L., D. Vorselen, et al. "[Generic Indicators for Loss of Resilience Before a Tipping Point Leading to Population Collapse](http://dx.doi.org/10.1126/science.1219805)." *Science* 336, no. 6085 (2012): 1175–77.
+Dai, L., D. Vorselen, et al. "{{% resource_link "a7dbbd7c-fbb5-4cdc-9748-0675e40a4085" "Generic Indicators for Loss of Resilience Before a Tipping Point Leading to Population Collapse" %}}." *Science* 336, no. 6085 (2012): 1175–77.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -363,9 +363,9 @@ Dynamics of populations in space
 
 *Required*
 
-Hallatschek, O., and D. R. Nelson. "[Population Genetics and Range Expansions](http://dx.doi.org/10.1063/1.3177227)." *Physics Today* 62, no. 7 (2009): 42.
+Hallatschek, O., and D. R. Nelson. "{{% resource_link "ad76a4b7-806a-4c96-b752-50d3418e780a" "Population Genetics and Range Expansions" %}}." *Physics Today* 62, no. 7 (2009): 42.
 
-Kerr, B., M. A. Riley, et al. "[Local Dispersal Promotes Biodiversity in a Real-Life Game of Rock-Paper-Scissors](http://dx.doi.org/10.1038/nature00823)." *Nature* 418, no. 6894 (2002): 171–74.
+Kerr, B., M. A. Riley, et al. "{{% resource_link "5630e3c7-5b84-491e-b415-e454007083f9" "Local Dispersal Promotes Biodiversity in a Real-Life Game of Rock-Paper-Scissors" %}}." *Nature* 418, no. 6894 (2002): 171–74.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -375,8 +375,8 @@ The neutral theory of ecology
 
 *Required*
 
-Whitfield, J. "[Ecology: Neutrality Versus the Niche](http://dx.doi.org/10.1038/417480a)." *Nature* 417 (2002): 480–81.
+Whitfield, J. "{{% resource_link "50b5f2be-b76e-4747-8c7f-13fb6d3d32a9" "Ecology: Neutrality Versus the Niche" %}}." *Nature* 417 (2002): 480–81.
 
-Volkov, I., J. Banavar, et al. "[Neutral Theory and Relative Species Abundance in Ecology](http://dx.doi.org/10.1038/nature01883)." *Nature* 424 (2003): 1035–37.
+Volkov, I., J. Banavar, et al. "{{% resource_link "e547ddf2-4e8b-41e2-8ddb-16166ed6c68b" "Neutral Theory and Relative Species Abundance in Ecology" %}}." *Nature* 424 (2003): 1035–37.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

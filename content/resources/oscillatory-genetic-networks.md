@@ -27,7 +27,7 @@ video_metadata:
   youtube_id: xNNxlsY-F-s
 ---
 
-**Description:** In this lecture, Prof. Jeff Gore introduces oscillatory genetic networks. He asks why oscillations are useful, and why might we want to design an oscillator. Central to the lecture is a Nature article: [A Synthetic Oscillatory Network of Transcriptional Regulators](http://dx.doi.org/10.1038/35002125).
+**Description:** In this lecture, Prof. Jeff Gore introduces oscillatory genetic networks. He asks why oscillations are useful, and why might we want to design an oscillator. Central to the lecture is a Nature article: {{% resource_link "3e46935a-2d57-4859-8dd0-7da66a0f0fd9" "A Synthetic Oscillatory Network of Transcriptional Regulators" %}}.
 
 **Instructor:** Prof. Jeff Gore
 
