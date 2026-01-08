@@ -33,7 +33,7 @@ This course provides an introduction to cellular and population-level systems bi
 
 *Learn more! In the video at the following Residential Digital Innovations page, Professor Gore explains various techniques he uses to gauge students' understanding of material.*
 
-- {{% resource_link "9d0f074e-6cac-4b25-b9f1-55072c212b07" "Measuring Student Understanding in Systems Biology" %}}
+- [Measuring Student Understanding in Systems Biology](https://openlearning.mit.edu/campus/digital-innovations/measuring-student-understanding-systems-biology)
 
 ## Curriculum Information
 
